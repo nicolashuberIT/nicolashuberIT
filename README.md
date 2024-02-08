@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nicolashuberIT
-- 📫 How to reach me https://nicolas-huber.ch
+- 📫 You can reach me at [nicolas-huber.ch](https://nicolas-huber.ch)
 
 <!---
 nicolashuberIT/nicolashuberIT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
